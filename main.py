@@ -41,6 +41,12 @@ def csv_writer(path,lists):
     for row in zip(*lists):
       writer.writerow(row)
     print("written succesfully in "+ path)
+    
+    
+ 
+    
+    
+    
 def Styblinski_Tang_Function(x, y) :
     return 0.5 * (x**4 + y**4) - 8 * (x**2 + y**2) + 2.5 * (x + y)
 def stf(n_sample):

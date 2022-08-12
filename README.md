@@ -2,6 +2,7 @@
 Automatic Selection of an optimal amount of training samples for the training of an artificial neural network
 
 
+The algorithm developed here are to understand the effect of sample complexity on the  training of an ANN. I have implemented three different types of algorithm known as sample Complexity Alog I, Improved Sample Complexity and Iterative aprroach with early stopping.    
 ![grafik](https://user-images.githubusercontent.com/41636267/183136732-caeb6ac6-d584-447d-bd66-e06428ecb55d.png)
 
 ![grafik](https://user-images.githubusercontent.com/41636267/183136978-a421e627-4cea-470c-9148-036950efef7e.png)
